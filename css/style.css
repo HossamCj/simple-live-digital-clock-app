@@ -1,0 +1,26 @@
+body{
+    background-color: dodgerblue;
+}
+
+h2 {
+    margin: 180px auto 0;
+    border: 1px solid #DDD;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    border-radius: 4px;
+    font-family: Arial;
+    color: whitesmoke;
+}
+
+.clock {
+    border: 1px solid #DDD;
+    width: 300px;
+    text-align: center;
+    padding : 20px;
+    margin: 30px auto;
+    border-radius: 4px;
+    background-color:bisque;
+    font-size: 30px;
+    font-family: Arial;
+}
